@@ -11,8 +11,8 @@
  * Tool chain:     Arduino IDE 1.8.2
  * Command Line:   None
  *
- * @author  shuwen
- * @author  mikeqin 
+ * @author  shuwen (shuwen.ou@thermofisher.com)
+ * @author  mikeqin (mike.qin@thermofisher.com)
  * @version 1.0
  * @date    2017-08-04
  * @bug     
