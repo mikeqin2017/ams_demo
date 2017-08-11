@@ -1,2 +1,2 @@
 # ams_demo
-Arduino Measurement Shield demo code
+Arduino Measurement Shield (AMS) simple demo code
